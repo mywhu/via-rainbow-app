@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/user.192efe69.css"
   },
   {
-    "revision": "8908b1e6c5d4360eb223e0805e52bdfb",
+    "revision": "bf0cf352f328d5633767514a86f7c024",
     "url": "/index.html"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about-legacy.ea643a30.js"
   },
   {
-    "revision": "540a38c9e3309b114265",
-    "url": "/js/app-legacy.49b7dc86.js"
+    "revision": "2b5d56c3bcbfc1ab0d85",
+    "url": "/js/app-legacy.52aefe4d.js"
   },
   {
     "revision": "f291474e572e0842dd69",
