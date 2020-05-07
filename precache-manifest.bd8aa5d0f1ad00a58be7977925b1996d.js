@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/alp.c857d6d7.css"
   },
   {
-    "revision": "5412fb25b0501e000bd5",
+    "revision": "be88c47a9579e0665f31",
     "url": "/css/app.1f2326c9.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/me~sign-up-code.580578a7.css"
   },
   {
-    "revision": "62e8756f7f4533e59a64",
+    "revision": "5dd86ce55ddfcfdac9df",
     "url": "/css/settings.f76d3143.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/user.2ab88d9e.css"
   },
   {
-    "revision": "ba3bcf103bb490496c56e955be3d8292",
+    "revision": "671aae7fd6552ae26e3456415c93e644",
     "url": "/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/alp-legacy.59ef0f8e.js"
   },
   {
-    "revision": "5412fb25b0501e000bd5",
-    "url": "/js/app-legacy.874469da.js"
+    "revision": "be88c47a9579e0665f31",
+    "url": "/js/app-legacy.6d561ce0.js"
   },
   {
     "revision": "f574ea92c876866e771a",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/register-legacy.d6dd42e6.js"
   },
   {
-    "revision": "62e8756f7f4533e59a64",
-    "url": "/js/settings-legacy.433ff937.js"
+    "revision": "5dd86ce55ddfcfdac9df",
+    "url": "/js/settings-legacy.5ecf11f5.js"
   },
   {
     "revision": "f4c481fd0b3c2cc012b8",

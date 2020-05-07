@@ -15,12 +15,16 @@ importScripts("/workbox-v4.3.1/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/workbox-v4.3.1"});
 
 importScripts(
-  "/precache-manifest.b6fc170c68797fb58be0d02227be29a0.js"
+  "/precache-manifest.a9b96940ce38c446466e890fc6c7e1ba.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "app"});
 
-workbox.core.skipWaiting();
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -29,3 +33,6 @@ workbox.core.skipWaiting();
  */
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
+
+workbox.routing.registerRoute(/^https:\/\/cdn\.jsdelivr\.net\/npm\/@mdi\/font@\d+\.\d+\.\d+/, new workbox.strategies.CacheFirst({ "cacheName":"cdn-mdi", plugins: [] }), 'GET');
+workbox.routing.registerRoute(/^https:\/\/cdn\.jsdelivr\.net\/npm\/roboto-fontface@\d+\.\d+\.\d+/, new workbox.strategies.CacheFirst({ "cacheName":"cdn-roboto", plugins: [] }), 'GET');
