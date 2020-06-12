@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/alp.c857d6d7.css"
   },
   {
-    "revision": "a7225df734e882fdd6a7",
+    "revision": "33bde7d13f8c23992904",
     "url": "/css/app.1f2326c9.css"
   },
   {
@@ -20,27 +20,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/home.2ab88d9e.css"
   },
   {
-    "revision": "fd1ec8b9674c7661bdbe",
-    "url": "/css/login~register.78ce7484.css"
+    "revision": "6cd76396f5d550498aed",
+    "url": "/css/login~me~register~user.78ce7484.css"
   },
   {
-    "revision": "dc168de6a0175a3ba915",
-    "url": "/css/me~sign-up-code.580578a7.css"
+    "revision": "0ccb65d4f7c5682ec438",
+    "url": "/css/me~user.07c2e61a.css"
   },
   {
     "revision": "b2a8427a9e17ad7c2788",
     "url": "/css/settings.f76d3143.css"
   },
   {
-    "revision": "87304172fe7724df3777",
-    "url": "/css/sign-up-code.6e07f40e.css"
+    "revision": "f02876938f40aee7f8e5",
+    "url": "/css/sign-up-code.cb907f1a.css"
   },
   {
-    "revision": "e08dc96077ca1e34fcad",
-    "url": "/css/user.2ab88d9e.css"
-  },
-  {
-    "revision": "e932e90f3cdeb1f7354392c76eca70ba",
+    "revision": "4d91685e693f6e19ee32dcce4f764b9a",
     "url": "/index.html"
   },
   {
@@ -52,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/alp.59ef0f8e.js"
   },
   {
-    "revision": "a7225df734e882fdd6a7",
-    "url": "/js/app.156dd831.js"
+    "revision": "33bde7d13f8c23992904",
+    "url": "/js/app.cefc289a.js"
   },
   {
     "revision": "f574ea92c876866e771a",
@@ -76,16 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/login.2279bff6.js"
   },
   {
-    "revision": "fd1ec8b9674c7661bdbe",
-    "url": "/js/login~register.ba736abb.js"
+    "revision": "6cd76396f5d550498aed",
+    "url": "/js/login~me~register~user.f32b2c27.js"
   },
   {
-    "revision": "fa15df75e724c7388ccd",
-    "url": "/js/me.2fb2799f.js"
+    "revision": "15e6c957b1f06cb3bf11",
+    "url": "/js/me.5cc2c7ec.js"
   },
   {
-    "revision": "dc168de6a0175a3ba915",
-    "url": "/js/me~sign-up-code.b86fd8d0.js"
+    "revision": "0ccb65d4f7c5682ec438",
+    "url": "/js/me~user.6d9b3369.js"
   },
   {
     "revision": "e4e3eff9d32f29e21c4b",
@@ -96,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/settings.2f667558.js"
   },
   {
-    "revision": "87304172fe7724df3777",
-    "url": "/js/sign-up-code.5b2503c0.js"
+    "revision": "f02876938f40aee7f8e5",
+    "url": "/js/sign-up-code.6aad37a3.js"
   },
   {
-    "revision": "e08dc96077ca1e34fcad",
-    "url": "/js/user.47cd4b3a.js"
+    "revision": "e925782baebd9b0c2e27",
+    "url": "/js/user.81103532.js"
   },
   {
     "revision": "8243c57ef77cb801e85e",
